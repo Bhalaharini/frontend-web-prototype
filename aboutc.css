@@ -1,0 +1,48 @@
+.one{
+    font-style: italic;
+    color:#2b3f4b;
+    padding-left:190px ;
+    padding-top:55px;
+    padding-right:190px ;
+    font-size: larger;
+    font-variant: inherit;
+}
+
+li{
+    display:inline;
+    padding:10px;
+}
+
+header{
+    background-image:linear-gradient(rgb(145, 63, 100),rgb(227, 188, 212));
+    color:rgb(16, 10, 1);
+    font-size:x-large;
+}
+
+body{
+    background-image:linear-gradient(rgb(143, 86, 113),pink);
+}
+.two{
+    color:rgb(39, 68, 118);
+    padding-left:190px;
+    padding-right:190px;
+    font-size: large;
+    font-style: italic;
+}
+.three{
+    padding-left:190px;
+    padding-right:190px;
+    font-size: large;
+    font-style: italic;
+}
+
+#main{
+    float:left;
+    width:50%;
+}
+
+#three{
+    float:right;
+    width: 50%;
+}
+

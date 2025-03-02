@@ -1,0 +1,31 @@
+.one{
+    font-style: italic;
+    color:#2b3f4b;
+    padding-left:410px ;
+    padding-top:80px;
+    padding-right:410px;
+    font-size: larger;
+    font-variant: inherit;
+}
+
+li{
+    display:inline;
+    padding:10px;
+}
+
+ul{
+    background-image:linear-gradient(rgb(145, 63, 100),rgb(227, 188, 212));
+    color:antiquewhite;
+    font-size:x-large;
+}
+
+body{
+    background-image:linear-gradient(rgb(143, 86, 113),pink);
+}
+
+seven{
+    padding-left:450px;
+    color:rgb(61, 36, 49)
+}
+
+

@@ -1,0 +1,34 @@
+#one{
+    float:left;
+    width:75%;
+    font-style: italic;
+    color:#44484a;
+   
+    font-size: small;
+    font-variant: inherit;
+}
+h1{
+    color:rgb(8, 8, 52)
+}
+
+li{
+    display:inline;
+    padding:10px;
+}
+
+ul{
+    background-image:linear-gradient(rgb(145, 63, 100),rgb(227, 188, 212));
+    color:antiquewhite;
+    font-size:x-large;
+}
+
+body{
+    background-image:linear-gradient(rgb(143, 86, 113),pink);
+}
+
+#two{
+    float:right;
+    width:25%;
+    background-color: rgb(147, 76, 115);
+    color:white;
+}
